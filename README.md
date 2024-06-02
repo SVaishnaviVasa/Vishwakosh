@@ -21,6 +21,15 @@ India's cultural fabric is woven with countless traditions, each contributing to
 **Final Thoughts**
 The idea of Vishwakosh is not absurd; in fact, it fills a significant gap in the digital conservation of cultural heritage. If executed well, it can become an invaluable resource for preserving and understanding cultural traditions. However, like any project, it requires careful planning, execution, and continuous improvement based on user feedback and technological advancements.
 
+**Technologies used:-**
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- PHP
+- Firebase database
+
+
 ![image](https://github.com/SVaishnaviVasa/Vishwakosh/assets/120392585/e3f37d6c-273a-4b48-bae4-abc2314b7e9c)
 ![image](https://github.com/SVaishnaviVasa/Vishwakosh/assets/120392585/8b0b8639-c647-4c1e-a7ae-2686a26ef6ef)
 (Responsive Landing page)
