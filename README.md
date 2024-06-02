@@ -20,7 +20,7 @@ India's cultural fabric is woven with countless traditions, each contributing to
 
 **Final Thoughts**
 
-The idea of Vishwakosh is not absurd; in fact, it fills a significant gap in the digital conservation of cultural heritage. If executed well, it can become an invaluable resource for preserving and understanding cultural traditions. However, like any project, it requires careful planning, execution, and continuous improvement based on user feedback and technological advancements.
+The idea of Vishwakosh tries to fills a significant gap in the digital conservation of cultural heritage. If executed well, it can become an invaluable resource for preserving and understanding cultural traditions. However, like any project, it requires careful planning, execution, and continuous improvement based on user feedback and technological advancements.
 
 **Technologies used:-**
 - HTML
