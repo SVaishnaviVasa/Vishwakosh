@@ -19,6 +19,7 @@ India's cultural fabric is woven with countless traditions, each contributing to
 **Vishwakosh** is more than a digital library; it is a movement towards preserving our heritage with the respect and authenticity it deserves. Join us in this endeavor to protect, explore, and celebrate the wealth of knowledge that defines our cultural identity.
 
 **Final Thoughts**
+
 The idea of Vishwakosh is not absurd; in fact, it fills a significant gap in the digital conservation of cultural heritage. If executed well, it can become an invaluable resource for preserving and understanding cultural traditions. However, like any project, it requires careful planning, execution, and continuous improvement based on user feedback and technological advancements.
 
 **Technologies used:-**
