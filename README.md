@@ -44,3 +44,6 @@ The idea of Vishwakosh tries to fills a significant gap in the digital conservat
 
 ![image](https://github.com/SVaishnaviVasa/Vishwakosh/assets/120392585/dad0d830-8d93-4b92-b3d2-cf52e760081c)
 (Uploading journal)
+
+![image](https://github.com/SVaishnaviVasa/Vishwakosh/assets/120392585/66a26bfa-bdfe-46a5-bceb-5a343da16c69)
+(MySQL table structure for storing journals)
